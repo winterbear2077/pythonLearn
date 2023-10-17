@@ -3,5 +3,3 @@ def add(*args):
         return
     return sum([i for i in args])
 
-
-print(add(1, 2, 3, 4))
